@@ -3,7 +3,6 @@ Este repositório contém uma série de desafios de lógica de programação res
 
 Exercícios Resolvidos
 
-
 1. Somatório com Laço while
 Um programa que calcula o somatório de números inteiros usando um laço.
 
