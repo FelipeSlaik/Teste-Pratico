@@ -25,9 +25,9 @@ Executando os Exercícios
 - Execute o código JavaScript com Node.js.
 
 O exercício 4 requer a instalação de pacotes via npm. Navegue até o diretório e execute:
-npm install
-node index.js
+- npm install
+- node index.js
 
 Arquivos Importantes
-faturamento.json: Contém dados de faturamento para 0 exercício 4.
-package.json: Contém informações sobre as dependências do projeto.
+faturamento.json: Contém dados de faturamento para o exercício 4.
+package.json: Contém informações sobre as dependências do projeto exercício 4.
